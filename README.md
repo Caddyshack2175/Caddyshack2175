@@ -31,10 +31,6 @@ Ten years of hands-on penetration testing across web applications, infrastructur
 
 **Security:** Web app, infrastructure, and API penetration testing · Burp Suite · Nuclei · Nmap
 
-**Languages:** Go · Python · Lua · Bash
-**Building:** CLIs (Cobra) · HTTP/REST APIs · OpenAPI/Swagger · concurrent tooling
-**Security:** Web app, infrastructure, and API penetration testing · Burp Suite · Nuclei · Nmap
-
 ---
 
 ## Why the crossover
