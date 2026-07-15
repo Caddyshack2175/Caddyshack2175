@@ -2,7 +2,7 @@
 
 **Offensive security engineer → building the tooling I used to wish existed.**
 
-Ten years of hands-on penetration testing across web applications, infrastructure, and APIs — and somewhere along the way I got tired of doing things by hand and started writing Go instead. Most of what's here is the result: tooling born from real engagements, built to solve problems I actually hit.
+Ten years of hands-on penetration testing across web applications, infrastructure, and APIs, somewhere along the way I got tired of doing things by hand and started writing Go instead. Most of what's here is the result: tooling born from real engagements, built to solve problems I actually hit.
 
 - 🔭 Currently focused on **Go** - CLI tooling, backend services, and APIs
 - 🛡️ Background: BSc (Hons) Ethical Hacking, Northumbria University · 10 years commercial pentesting
