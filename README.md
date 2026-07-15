@@ -4,7 +4,7 @@
 
 Ten years of hands-on penetration testing across web applications, infrastructure, and APIs — and somewhere along the way I got tired of doing things by hand and started writing Go instead. Most of what's here is the result: tooling born from real engagements, built to solve problems I actually hit.
 
-- 🔭 Currently focused on **Go** — CLI tooling, backend services, and APIs
+- 🔭 Currently focused on **Go** - CLI tooling, backend services, and APIs
 - 🛡️ Background: BSc (Hons) Ethical Hacking, Northumbria University · 10 years commercial pentesting
 - 🧰 Interests: API security, security automation, developer tooling, everything at the seam between building and breaking
 - 🌍 Remote, UK
@@ -34,7 +34,7 @@ Ten years of hands-on penetration testing across web applications, infrastructur
 
 ## Why the crossover
 
-Ten years of breaking APIs turns out to be decent training for building them. I've read a lot of other people's code looking for the place it goes wrong — broken auth flows, missing access controls, the object reference nobody checked — and that habit doesn't switch off when I'm the one writing it.
+Ten years of breaking APIs turns out to be decent training for building them. I've read a lot of other people's code looking for the place it goes wrong; broken auth flows, missing access controls, the object reference nobody checked, and that habit doesn't switch off when I'm the one writing it.
 
 Most of these repos started as "I need this for an engagement tomorrow" and grew from there.
 
